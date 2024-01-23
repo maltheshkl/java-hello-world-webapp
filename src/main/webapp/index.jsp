@@ -1,6 +1,6 @@
 <html>
 <body>
-  <h2>Hello Hammad Everyone! ?</h2>
+  <h2>Hello Everyone! ?</h2>
 <h3>Welcome to Cloud With Malthesh| AWS Certified Security Engineer, Azure & AWS Solution Architect </h3>
   
 <marquee>Welcome to Cloud With Malthesh</marquee>
